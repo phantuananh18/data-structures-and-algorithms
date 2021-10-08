@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ConsoleApp1
+namespace HashTable
 {   
     public class NotFoundKeyException : Exception
     {
